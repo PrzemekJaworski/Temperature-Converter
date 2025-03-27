@@ -40,8 +40,9 @@ git clone https://github.com/PrzemekJaworski/Temperature-Converter.git
 ```
 
 2️⃣ Navigate to the project folder:
-`   cd Temperature-Converter
-  `
+```
+cd Temperature-Converter
+```
 
 3️⃣ Open the index.html file in your browser.
 
